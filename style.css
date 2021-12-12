@@ -37,7 +37,7 @@ body{
 .navbar{
     background: #373c56;
     height: 40px;
-    position:static;
+    padding: 15px 0px;
 }
 .sam{
     background: #373c56;
